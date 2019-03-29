@@ -1,4 +1,4 @@
 //Your code here
-let justInvoke = function () {
-
+function justInvoke(fn) {
+  return fn;
 }
